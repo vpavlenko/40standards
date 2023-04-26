@@ -100,3 +100,72 @@ Satin Doll (Ellington)
 <img width="754" alt="Screenshot 2023-04-26 at 14 50 41" src="https://user-images.githubusercontent.com/1491908/234553463-4c5f5a7e-31c5-445f-ac58-5f2ad9e3a615.png">
 
 
+Leaves
+===
+
+Autumn Leaves (Kosma)
+---
+
+1945
+
+<img width="760" alt="Screenshot 2023-04-26 at 15 02 29" src="https://user-images.githubusercontent.com/1491908/234556219-9093b726-7a9c-4084-8ae0-4ff706870554.png">
+
+<img width="691" alt="Screenshot 2023-04-26 at 15 02 50" src="https://user-images.githubusercontent.com/1491908/234556301-4cbfa534-2a00-48e9-9e87-9961569ca13e.png">
+
+<img width="395" alt="Screenshot 2023-04-26 at 15 03 57" src="https://user-images.githubusercontent.com/1491908/234556595-c0b3f4ab-6364-4c5f-af60-1c6036590a9e.png">
+
+<img width="411" alt="Screenshot 2023-04-26 at 15 04 13" src="https://user-images.githubusercontent.com/1491908/234556660-4959a149-88c3-4f80-ba9b-4076c3cae0dc.png">
+
+<img width="1115" alt="Screenshot 2023-04-26 at 15 06 41" src="https://user-images.githubusercontent.com/1491908/234557170-eb2edf25-efa4-41d4-8b80-48b027a66e80.png">
+
+
+<img width="1286" alt="Screenshot 2023-04-26 at 15 04 34" src="https://user-images.githubusercontent.com/1491908/234556731-7f2d1051-aa5b-4444-88ba-0b862ea1fd11.png">
+
+
+
+
+Love For Sale (Porter)
+---
+
+1930
+
+<img width="701" alt="Screenshot 2023-04-26 at 14 56 30" src="https://user-images.githubusercontent.com/1491908/234554832-1ed601c4-c2a8-4d71-960b-2b3950f1c839.png">
+
+<img width="387" alt="Screenshot 2023-04-26 at 14 56 44" src="https://user-images.githubusercontent.com/1491908/234554881-d06e2e0c-8433-449f-b7f3-1064a4727be8.png">
+
+<img width="371" alt="Screenshot 2023-04-26 at 14 57 05" src="https://user-images.githubusercontent.com/1491908/234554971-197867dd-40f7-49cd-9d1e-4b7811cf6bc4.png">
+
+<img width="706" alt="Screenshot 2023-04-26 at 14 57 24" src="https://user-images.githubusercontent.com/1491908/234555046-172300ca-905d-4999-9693-0be9fd410c70.png">
+
+<img width="1304" alt="Screenshot 2023-04-26 at 14 57 38" src="https://user-images.githubusercontent.com/1491908/234555093-ffa1b608-fbee-40ef-81d7-1006cf4218ba.png">
+
+
+Body And Soul
+---
+
+1930
+
+<img width="698" alt="Screenshot 2023-04-26 at 15 07 44" src="https://user-images.githubusercontent.com/1491908/234557379-10a0f726-efcb-48c2-bc17-6aa3c282d90a.png">
+
+<img width="1200" alt="Screenshot 2023-04-26 at 15 10 47" src="https://user-images.githubusercontent.com/1491908/234558011-9d6c22b1-5b43-4481-9dfb-ee1c5e4ea2c7.png">
+
+<img width="1277" alt="Screenshot 2023-04-26 at 15 11 11" src="https://user-images.githubusercontent.com/1491908/234558104-807821ec-df18-4895-897f-b5c613c7c33c.png">
+
+
+Cherokee (Noble)
+---
+
+1938
+
+<img width="691" alt="Screenshot 2023-04-26 at 15 13 12" src="https://user-images.githubusercontent.com/1491908/234558587-8f5a830c-b77d-4be7-bd2a-816c71995a09.png">
+
+<img width="737" alt="Screenshot 2023-04-26 at 15 12 57" src="https://user-images.githubusercontent.com/1491908/234558523-e0ef8cf5-59e3-4964-8665-a3827c0d6b47.png">
+
+<img width="1275" alt="Screenshot 2023-04-26 at 15 13 47" src="https://user-images.githubusercontent.com/1491908/234558689-74218f4c-acdd-4757-968d-3b210b84f0de.png">
+
+
+Exotic
+===
+
+
+
