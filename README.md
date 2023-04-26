@@ -1,7 +1,7 @@
 Ain't Misbehavin' (Waller)
 ---
 
-1929 stride jazz/early swing.
+1929 stride jazz/early swing
 
 <img width="684" alt="Screenshot 2023-04-26 at 10 12 25" src="https://user-images.githubusercontent.com/1491908/234485155-cfb805f4-970b-470e-8f54-08f296a32b63.png">
 
@@ -18,6 +18,18 @@ Summary:
 AABA 8+8+8+8
 - A: gets from I to ii using fillers (either passing diminished harmonizing the bass line or through VI7), then either I or iii, but a key thing is to get to IV^ and then bVII7. then SPOT (iii VI7 ii V7 I^), then either a chain of dominants or a POT back to I
 - B: harmonic rhythms slows down (vi IV7), then after F7 we defer a resolution by a plagal C7, then Bb^ is confirmed with POT, last two bars we again approach main I somehow
+
+I got rhythm (Gershwin)
+--
+
+1930 swing
+
+<img width="681" alt="Screenshot 2023-04-26 at 12 20 22" src="https://user-images.githubusercontent.com/1491908/234514608-331899c3-933a-4718-b658-094b5a7455be.png">
+
+<img width="1293" alt="Screenshot 2023-04-26 at 12 21 19" src="https://user-images.githubusercontent.com/1491908/234514857-0262f54c-545f-4095-882f-986d041e0992.png">
+
+<img width="1021" alt="Screenshot 2023-04-26 at 12 21 48" src="https://user-images.githubusercontent.com/1491908/234514983-d485d892-9c29-4e63-80bc-a1dc866e4159.png">
+
 
 Anthropology (Parker)
 ---
