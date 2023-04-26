@@ -145,6 +145,26 @@ Satin Doll (Ellington)
 <img width="754" alt="Screenshot 2023-04-26 at 14 50 41" src="https://user-images.githubusercontent.com/1491908/234553463-4c5f5a7e-31c5-445f-ac58-5f2ad9e3a615.png">
 
 
+I've Found a New Baby (Williams)
+---
+
+1926
+
+<img width="504" alt="Screenshot 2023-04-26 at 18 18 51" src="https://user-images.githubusercontent.com/1491908/234604867-a4089961-e679-49a2-b6fd-00863028619b.png">
+
+Oh Lady, Be Good (Gershwin)
+---
+
+1924
+
+<img width="693" alt="Screenshot 2023-04-26 at 18 28 05" src="https://user-images.githubusercontent.com/1491908/234607597-1bc2fa01-2eb4-483e-b85f-b9ef6d4be811.png">
+
+<img width="1081" alt="Screenshot 2023-04-26 at 18 28 23" src="https://user-images.githubusercontent.com/1491908/234607693-099caf6f-9afa-460e-b2a9-0a6eb4d120f7.png">
+
+<img width="1263" alt="Screenshot 2023-04-26 at 18 28 58" src="https://user-images.githubusercontent.com/1491908/234607881-a7108d56-f257-45a9-acfe-c5dec4fd7743.png">
+
+
+
 Leaves
 ===
 
@@ -318,8 +338,12 @@ St. Louis Blues (Handy)
 
 <img width="695" alt="Screenshot 2023-04-26 at 15 45 42" src="https://user-images.githubusercontent.com/1491908/234565251-7d8ce928-1da1-4177-8a0f-4f9899978571.png">
 
+Now's the Time (parker)
+---
 
+1945, 12 bar blues
 
+<img width="686" alt="Screenshot 2023-04-26 at 18 25 44" src="https://user-images.githubusercontent.com/1491908/234606928-8b32882f-dfb9-4d2d-b812-c010d434e4e8.png">
 
 
 
@@ -400,5 +424,44 @@ I Can't Give You Anything But Love (McHugh)
 <img width="691" alt="Screenshot 2023-04-26 at 16 24 39" src="https://user-images.githubusercontent.com/1491908/234573737-0191c942-9f56-41ab-b861-1a528cdfb502.png">
 
 <img width="748" alt="Screenshot 2023-04-26 at 16 24 52" src="https://user-images.githubusercontent.com/1491908/234573773-8ba66861-86fb-4165-a4b5-762b2c422675.png">
+
+Lullaby Of Birdland (Shearing)
+---
+
+1952
+
+<img width="700" alt="Screenshot 2023-04-26 at 18 20 37" src="https://user-images.githubusercontent.com/1491908/234605383-e83d90be-3590-4e48-aa55-c404deefc768.png">
+
+<img width="680" alt="Screenshot 2023-04-26 at 18 22 17" src="https://user-images.githubusercontent.com/1491908/234605868-275f0e82-461c-4b64-a5f5-0e2809d1f25b.png">
+
+<img width="1088" alt="Screenshot 2023-04-26 at 18 20 47" src="https://user-images.githubusercontent.com/1491908/234605432-e05e0eff-ce1f-405a-a0f3-04ec4abf10cc.png">
+
+<img width="1309" alt="Screenshot 2023-04-26 at 18 21 18" src="https://user-images.githubusercontent.com/1491908/234605587-1d642925-5dfd-4938-91e0-9aeee312d616.png">
+
+
+<img width="751" alt="Screenshot 2023-04-26 at 18 21 00" src="https://user-images.githubusercontent.com/1491908/234605487-ec730b27-43c6-4a53-8d6c-5967ac00371b.png">
+
+Summertime (Gershwin)
+---
+
+1934
+
+<img width="694" alt="Screenshot 2023-04-26 at 18 22 04" src="https://user-images.githubusercontent.com/1491908/234605774-bddc810d-22a2-418e-b736-379ec997dc58.png">
+
+<img width="683" alt="Screenshot 2023-04-26 at 18 22 37" src="https://user-images.githubusercontent.com/1491908/234605961-2dc21d9b-36f3-437e-a662-d9083d5b8cc1.png">
+
+<img width="1205" alt="Screenshot 2023-04-26 at 18 23 26" src="https://user-images.githubusercontent.com/1491908/234606205-1d0654cd-10dd-4082-b55f-c02fdc05d6a0.png">
+
+<img width="1254" alt="Screenshot 2023-04-26 at 18 23 46" src="https://user-images.githubusercontent.com/1491908/234606304-96cbad0b-0704-49f7-8f41-139a5b816ff4.png">
+
+
+'Round About Midnight (Monk)
+---
+
+1943
+
+<img width="752" alt="Screenshot 2023-04-26 at 18 31 37" src="https://user-images.githubusercontent.com/1491908/234608674-efdbc8ea-a013-40b1-948f-e8ca7a994d90.png">
+
+<img width="881" alt="Screenshot 2023-04-26 at 18 31 45" src="https://user-images.githubusercontent.com/1491908/234608720-5f682be3-e5ef-40c3-8675-b7ad412c1640.png">
 
 
