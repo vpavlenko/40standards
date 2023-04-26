@@ -163,9 +163,62 @@ Cherokee (Noble)
 
 <img width="1275" alt="Screenshot 2023-04-26 at 15 13 47" src="https://user-images.githubusercontent.com/1491908/234558689-74218f4c-acdd-4757-968d-3b210b84f0de.png">
 
+<img width="749" alt="Screenshot 2023-04-26 at 15 21 09" src="https://user-images.githubusercontent.com/1491908/234560181-25c558f8-4de4-4b27-bd14-b1e0dc814d62.png">
+
+
 
 Exotic
 ===
 
+A Night in Tunisia
+---
 
+1940
+
+<img width="698" alt="Screenshot 2023-04-26 at 15 16 32" src="https://user-images.githubusercontent.com/1491908/234559229-a1416a34-22e6-4d30-9b39-5e27c5f4b1be.png">
+
+
+
+<img width="723" alt="Screenshot 2023-04-26 at 15 15 41" src="https://user-images.githubusercontent.com/1491908/234559079-caaeab54-24f9-4726-9094-ca6392b2e381.png">
+
+
+<img width="1281" alt="Screenshot 2023-04-26 at 15 17 06" src="https://user-images.githubusercontent.com/1491908/234559348-2ca734c1-206c-4ac4-904f-1d81622bb58a.png">
+
+
+Caravan
+---
+
+1936
+
+<img width="689" alt="Screenshot 2023-04-26 at 15 20 03" src="https://user-images.githubusercontent.com/1491908/234559930-a42600c2-8a7d-4b9f-852a-7758f0ff5300.png">
+
+<img width="675" alt="Screenshot 2023-04-26 at 15 20 29" src="https://user-images.githubusercontent.com/1491908/234560009-cdb9db2f-d6dc-445b-9d77-916dbb2a5a29.png">
+
+
+
+
+
+
+
+Old school
+===
+
+Down By the Riverside (trad)
+---
+
+19th century, published in 1918
+
+<img width="565" alt="Screenshot 2023-04-26 at 15 26 35" src="https://user-images.githubusercontent.com/1491908/234561247-fb109442-3550-4f7a-9c95-f790aca7c431.png">
+
+
+
+
+When the Saints Go Marching In (trad)
+---
+
+traditional black spiritual, early 1900s
+
+F can be expanded as F - Fm
+
+<img width="637" alt="Screenshot 2023-04-26 at 15 30 23" src="https://user-images.githubusercontent.com/1491908/234562012-1eb93f87-beb3-49a4-b334-90645ed93637.png">
 
