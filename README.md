@@ -22,7 +22,7 @@ AABA 8+8+8+8
 Anthropology (Parker)
 ---
 
-1945 be-bop, contrafact on "I Got Rhythm"
+1945 bebop, contrafact on "I Got Rhythm"
 
 <img width="689" alt="Screenshot 2023-04-26 at 12 07 07" src="https://user-images.githubusercontent.com/1491908/234511316-bc02d96a-4572-49ea-b64c-08a6fab3e49d.png">
 
