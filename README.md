@@ -1,4 +1,4 @@
-1. Ain't Misbehavin' - (Waller)
+Ain't Misbehavin' - (Waller)
 ---
 
 1929 stride jazz/early swing.
@@ -7,4 +7,5 @@
 
 <img width="684" alt="Screenshot 2023-04-26 at 10 12 25" src="https://user-images.githubusercontent.com/1491908/234485155-cfb805f4-970b-470e-8f54-08f296a32b63.png">
 
+<img width="749" alt="Screenshot 2023-04-26 at 10 17 27" src="https://user-images.githubusercontent.com/1491908/234486044-0777aed5-0a07-45be-99e2-f85e205dd4c9.png">
 
