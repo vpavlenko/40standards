@@ -188,6 +188,22 @@ Cherokee (Noble)
 
 <img width="749" alt="Screenshot 2023-04-26 at 15 21 09" src="https://user-images.githubusercontent.com/1491908/234560181-25c558f8-4de4-4b27-bd14-b1e0dc814d62.png">
 
+Take the "A" Train (Strayhorn)
+---
+
+1939
+
+<img width="695" alt="Screenshot 2023-04-26 at 15 47 08" src="https://user-images.githubusercontent.com/1491908/234565551-3be1353f-7d65-48b8-a33d-4c9fcd393164.png">
+
+<img width="680" alt="Screenshot 2023-04-26 at 15 47 31" src="https://user-images.githubusercontent.com/1491908/234565629-8aac61e9-5dbe-4108-9e1b-b494aa0a0fea.png">
+
+<img width="345" alt="Screenshot 2023-04-26 at 15 48 14" src="https://user-images.githubusercontent.com/1491908/234565763-0711a37c-a16b-467a-a4b2-bac656016356.png">
+
+
+<img width="1079" alt="Screenshot 2023-04-26 at 15 47 44" src="https://user-images.githubusercontent.com/1491908/234565680-9ac290a3-d71c-4609-998d-82768c16d2bb.png">
+<img width="1277" alt="Screenshot 2023-04-26 at 15 49 04" src="https://user-images.githubusercontent.com/1491908/234565914-90745240-dec0-4178-9a7c-3e7a70e3f206.png">
+
+<img width="734" alt="Screenshot 2023-04-26 at 15 48 40" src="https://user-images.githubusercontent.com/1491908/234565833-fb79efc6-ec28-49e5-a02c-cf2a6fdcbb52.png">
 
 
 Exotic
@@ -265,6 +281,22 @@ Sweet Georgia Brown (Pinkard)
 <img width="1065" alt="Screenshot 2023-04-26 at 15 34 46" src="https://user-images.githubusercontent.com/1491908/234562884-6940db60-8672-40bc-82c6-76ca953a3085.png">
 
 <img width="1305" alt="Screenshot 2023-04-26 at 15 36 17" src="https://user-images.githubusercontent.com/1491908/234563172-1986c8a3-b5c6-47ce-8209-acaeb990fcf4.png">
+
+Mack The Knife (Weill)
+---
+
+1928
+
+<img width="553" alt="Screenshot 2023-04-26 at 15 43 32" src="https://user-images.githubusercontent.com/1491908/234564753-7852deff-7ea9-420c-90e9-a3c10a6d03a6.png">
+
+St. Louis Blues (Handy)
+---
+
+1914
+
+<img width="695" alt="Screenshot 2023-04-26 at 15 45 42" src="https://user-images.githubusercontent.com/1491908/234565251-7d8ce928-1da1-4177-8a0f-4f9899978571.png">
+
+
 
 
 
