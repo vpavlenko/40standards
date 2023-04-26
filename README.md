@@ -350,6 +350,34 @@ Ornithology (Parker)
 
 
 
+Django (Lewis)
+---
 
+1954
+
+<img width="521" alt="Screenshot 2023-04-26 at 16 09 11" src="https://user-images.githubusercontent.com/1491908/234570252-5ee7f5b6-0a93-43e9-b514-285801dd3768.png">
+
+<img width="721" alt="Screenshot 2023-04-26 at 16 11 35" src="https://user-images.githubusercontent.com/1491908/234570736-1c7e2a41-382f-416f-aa98-d937be574cef.png">
+
+Four Brothers (Giuffre)
+---
+
+1947
+
+<img width="535" alt="Screenshot 2023-04-26 at 16 16 19" src="https://user-images.githubusercontent.com/1491908/234571761-820a2c65-e65f-4e23-8d06-66cc56e14d6b.png">
+
+
+Groovin' High (Gillespie)
+---
+
+1945
+
+<img width="687" alt="Screenshot 2023-04-26 at 16 18 15" src="https://user-images.githubusercontent.com/1491908/234572241-5cd67c12-8341-48e8-98fd-063de17efff3.png">
+
+<img width="1089" alt="Screenshot 2023-04-26 at 16 18 32" src="https://user-images.githubusercontent.com/1491908/234572298-06c3e17f-50cf-4504-ab6e-924629cc385b.png">
+
+<img width="1266" alt="Screenshot 2023-04-26 at 16 18 46" src="https://user-images.githubusercontent.com/1491908/234572360-d6a500fc-e588-4d13-ba0d-9aa7b03cffc1.png">
+
+<img width="721" alt="Screenshot 2023-04-26 at 16 22 37" src="https://user-images.githubusercontent.com/1491908/234573237-a614701e-e51e-4e2e-8881-733dd9019268.png">
 
 
