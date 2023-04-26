@@ -1,3 +1,5 @@
+# Table of contents
+
 - [Rhythm changes](#rhythm-changes)
   - [Ain't Misbehavin' (Waller)](#aint-misbehavin-waller)
   - [I got rhythm (Gershwin)](#i-got-rhythm-gershwin)
@@ -13,12 +15,12 @@
 - [Leaves](#leaves)
   - [Autumn Leaves (Kosma)](#autumn-leaves-kosma)
   - [Love For Sale (Porter)](#love-for-sale-porter)
-  - [Body And Soul](#body-and-soul)
+  - [Body And Soul (Green)](#body-and-soul-green)
   - [Cherokee (Noble)](#cherokee-noble)
   - [Take the "A" Train (Strayhorn)](#take-the-a-train-strayhorn)
 - [Exotic](#exotic)
-  - [A Night in Tunisia](#a-night-in-tunisia)
-  - [Caravan](#caravan)
+  - [A Night in Tunisia (Gillespie)](#a-night-in-tunisia-gillespie)
+  - [Caravan (Tizol)](#caravan-tizol)
   - [Moanin' (Timmons)](#moanin-timmons)
 - [Old school](#old-school)
   - [Down By the Riverside (trad)](#down-by-the-riverside-trad)
@@ -218,7 +220,7 @@ Love For Sale (Porter)
 <img width="1304" alt="Screenshot 2023-04-26 at 14 57 38" src="https://user-images.githubusercontent.com/1491908/234555093-ffa1b608-fbee-40ef-81d7-1006cf4218ba.png">
 
 
-Body And Soul
+Body And Soul (Green)
 ---
 
 1930
@@ -264,7 +266,7 @@ Take the "A" Train (Strayhorn)
 Exotic
 ===
 
-A Night in Tunisia
+A Night in Tunisia (Gillespie)
 ---
 
 1940
@@ -279,7 +281,7 @@ A Night in Tunisia
 <img width="1281" alt="Screenshot 2023-04-26 at 15 17 06" src="https://user-images.githubusercontent.com/1491908/234559348-2ca734c1-206c-4ac4-904f-1d81622bb58a.png">
 
 
-Caravan
+Caravan (Tizol)
 ---
 
 1936
