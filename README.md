@@ -89,6 +89,17 @@ Honeysuckle rose (Waller)
 
 <img width="774" alt="Screenshot 2023-04-26 at 13 56 36" src="https://user-images.githubusercontent.com/1491908/234540863-e2a9c8cd-4326-4893-824b-29175ad6aef3.png">
 
+It Don't Mean a Thing (Ellington)
+---
+
+1931
+
+<img width="646" alt="Screenshot 2023-04-26 at 15 53 54" src="https://user-images.githubusercontent.com/1491908/234567161-a1318768-527b-4887-95f6-eaa739d630c7.png">
+
+<img width="1150" alt="Screenshot 2023-04-26 at 15 54 05" src="https://user-images.githubusercontent.com/1491908/234567207-238a7964-0c8d-4bb9-a01b-791fe49f242c.png">
+
+<img width="1302" alt="Screenshot 2023-04-26 at 15 54 29" src="https://user-images.githubusercontent.com/1491908/234567283-407b1a54-9af6-4666-b2ac-93ee20c99af6.png">
+
 
 Basin Street Blues (Williams)
 ---
@@ -296,6 +307,46 @@ St. Louis Blues (Handy)
 
 <img width="695" alt="Screenshot 2023-04-26 at 15 45 42" src="https://user-images.githubusercontent.com/1491908/234565251-7d8ce928-1da1-4177-8a0f-4f9899978571.png">
 
+
+
+
+
+
+
+Smth else
+===
+
+I'm Beginning To See the Light (Ellington)
+---
+
+1944
+
+<img width="653" alt="Screenshot 2023-04-26 at 15 56 24" src="https://user-images.githubusercontent.com/1491908/234567656-e359755e-71ab-4c1d-aec2-c9c71fd17ab7.png">
+
+<img width="733" alt="Screenshot 2023-04-26 at 15 57 27" src="https://user-images.githubusercontent.com/1491908/234568161-6d28e8e5-cb1b-4abd-9a07-2a6feb674c62.png">
+
+
+How High Is the Moon (Lewis)
+---
+
+1940
+
+<img width="696" alt="Screenshot 2023-04-26 at 15 59 39" src="https://user-images.githubusercontent.com/1491908/234568300-13ee7c24-ac6b-461a-9ba3-8be9ec58733b.png">
+
+<img width="687" alt="Screenshot 2023-04-26 at 15 59 57" src="https://user-images.githubusercontent.com/1491908/234568355-c511f9f9-f22b-4db4-8e65-0319b8d51de4.png">
+
+Ornithology (Parker)
+---
+
+1946, bebop, contrafact of How High Is the Moon
+
+<img width="698" alt="Screenshot 2023-04-26 at 16 01 07" src="https://user-images.githubusercontent.com/1491908/234568593-742fd170-242d-4c0b-b7c0-3a7c59894248.png">
+
+<img width="1130" alt="Screenshot 2023-04-26 at 16 01 20" src="https://user-images.githubusercontent.com/1491908/234568638-8ed29951-ce3e-473e-a51e-f9e97b2a288e.png">
+
+<img width="1286" alt="Screenshot 2023-04-26 at 16 01 55" src="https://user-images.githubusercontent.com/1491908/234568762-e0fc77c4-67ce-47be-8431-1bf5edd16e20.png">
+
+<img width="734" alt="Screenshot 2023-04-26 at 16 01 34" src="https://user-images.githubusercontent.com/1491908/234568698-6ab57af7-195a-4747-8709-7337d6dfa93f.png">
 
 
 
