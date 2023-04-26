@@ -28,7 +28,7 @@
   - [Sweet Georgia Brown (Pinkard)](#sweet-georgia-brown-pinkard)
   - [Mack The Knife (Weill)](#mack-the-knife-weill)
   - [St. Louis Blues (Handy)](#st-louis-blues-handy)
-  - [Now's the Time (parker)](#nows-the-time-parker)
+  - [Now's the Time (Parker)](#nows-the-time-parker)
   - [Some of These Days (Brooks)](#some-of-these-days-brooks)
 - [Smth else](#smth-else)
   - [I'm Beginning To See the Light (Ellington)](#im-beginning-to-see-the-light-ellington)
@@ -347,7 +347,7 @@ St. Louis Blues (Handy)
 
 <img width="695" alt="Screenshot 2023-04-26 at 15 45 42" src="https://user-images.githubusercontent.com/1491908/234565251-7d8ce928-1da1-4177-8a0f-4f9899978571.png">
 
-Now's the Time (parker)
+Now's the Time (Parker)
 ---
 
 1945, 12 bar blues
