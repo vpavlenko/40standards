@@ -26,6 +26,7 @@ Anthropology (Parker)
 
 <img width="689" alt="Screenshot 2023-04-26 at 12 07 07" src="https://user-images.githubusercontent.com/1491908/234511316-bc02d96a-4572-49ea-b64c-08a6fab3e49d.png">
 
+<img width="732" alt="Screenshot 2023-04-26 at 12 17 44" src="https://user-images.githubusercontent.com/1491908/234513972-6d60c888-b927-4d7e-b3b1-b499fb4535b5.png">
 
 
 
