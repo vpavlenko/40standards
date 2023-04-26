@@ -392,3 +392,13 @@ Groovin' High (Gillespie)
 <img width="721" alt="Screenshot 2023-04-26 at 16 22 37" src="https://user-images.githubusercontent.com/1491908/234573237-a614701e-e51e-4e2e-8881-733dd9019268.png">
 
 
+I Can't Give You Anything But Love (McHugh)
+---
+
+1928
+
+<img width="691" alt="Screenshot 2023-04-26 at 16 24 39" src="https://user-images.githubusercontent.com/1491908/234573737-0191c942-9f56-41ab-b861-1a528cdfb502.png">
+
+<img width="748" alt="Screenshot 2023-04-26 at 16 24 52" src="https://user-images.githubusercontent.com/1491908/234573773-8ba66861-86fb-4165-a4b5-762b2c422675.png">
+
+
