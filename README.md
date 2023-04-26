@@ -205,6 +205,8 @@ Autumn Leaves (Kosma)
 
 <img width="1286" alt="Screenshot 2023-04-26 at 15 04 34" src="https://user-images.githubusercontent.com/1491908/234556731-7f2d1051-aa5b-4444-88ba-0b862ea1fd11.png">
 
+<img width="1611" alt="Screenshot 2023-04-26 at 19 15 31" src="https://user-images.githubusercontent.com/1491908/234621673-aae80949-47dd-4cfc-a797-1f574c7ac9c0.png">
+
 
 
 
@@ -265,6 +267,11 @@ Take the "A" Train (Strayhorn)
 <img width="1277" alt="Screenshot 2023-04-26 at 15 49 04" src="https://user-images.githubusercontent.com/1491908/234565914-90745240-dec0-4178-9a7c-3e7a70e3f206.png">
 
 <img width="734" alt="Screenshot 2023-04-26 at 15 48 40" src="https://user-images.githubusercontent.com/1491908/234565833-fb79efc6-ec28-49e5-a02c-cf2a6fdcbb52.png">
+
+<img width="1606" alt="Screenshot 2023-04-26 at 19 18 45" src="https://user-images.githubusercontent.com/1491908/234622603-2f390f38-48ee-435c-b7f8-c5e007de469b.png">
+
+
+
 
 
 Exotic
@@ -331,6 +338,9 @@ F can be expanded as F - Fm
 
 <img width="637" alt="Screenshot 2023-04-26 at 15 30 23" src="https://user-images.githubusercontent.com/1491908/234562012-1eb93f87-beb3-49a4-b334-90645ed93637.png">
 
+<img width="1038" alt="Screenshot 2023-04-26 at 19 21 50" src="https://user-images.githubusercontent.com/1491908/234623448-c991b208-3069-4c62-a7e6-f8f46a3d42c7.png">
+
+
 
 Sweet Georgia Brown (Pinkard)
 ---
@@ -396,6 +406,9 @@ How High Is the Moon (Lewis)
 <img width="696" alt="Screenshot 2023-04-26 at 15 59 39" src="https://user-images.githubusercontent.com/1491908/234568300-13ee7c24-ac6b-461a-9ba3-8be9ec58733b.png">
 
 <img width="687" alt="Screenshot 2023-04-26 at 15 59 57" src="https://user-images.githubusercontent.com/1491908/234568355-c511f9f9-f22b-4db4-8e65-0319b8d51de4.png">
+
+<img width="1618" alt="Screenshot 2023-04-26 at 19 26 24" src="https://user-images.githubusercontent.com/1491908/234624639-db1833fc-1956-4dc6-9439-465c14806f20.png">
+
 
 Ornithology (Parker)
 ---
