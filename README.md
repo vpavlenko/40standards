@@ -12,3 +12,9 @@ Ain't Misbehavin' - (Waller)
 <img width="1112" alt="Screenshot 2023-04-26 at 10 21 26" src="https://user-images.githubusercontent.com/1491908/234486814-d6734e30-80db-4732-a532-bd5f1559c1c1.png">
 
 <img width="749" alt="Screenshot 2023-04-26 at 10 17 27" src="https://user-images.githubusercontent.com/1491908/234486044-0777aed5-0a07-45be-99e2-f85e205dd4c9.png">
+
+Summary:
+
+AABA 8+8+8+8
+- A: gets from I to ii using fillers (either passing diminished harmonizing the bass line or through VI7), then either I or iii, but a key thing is to get to IV^ and then bVII7. then SPOT (iii VI7 ii V7 I^), then either a chain of dominants or a POT back to I
+- B: harmonic rhythms slows down (vi IV7), then after F7 we defer a resolution by a plagal C7, then Bb^ is confirmed with POT, last two bars we again approach main I somehow
