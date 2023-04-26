@@ -70,6 +70,25 @@ Anthropology (Parker)
 
 <img width="732" alt="Screenshot 2023-04-26 at 12 17 44" src="https://user-images.githubusercontent.com/1491908/234513972-6d60c888-b927-4d7e-b3b1-b499fb4535b5.png">
 
+Oleo (Rollins)
+---
+
+1954 hardbop, contrafact of "I Got Rhythm"
+
+<img width="747" alt="Screenshot 2023-04-26 at 13 48 40" src="https://user-images.githubusercontent.com/1491908/234538770-e9451a1f-e1b2-49a6-9aec-0ed78f7ab55e.png">
+
+<img width="721" alt="Screenshot 2023-04-26 at 13 49 22" src="https://user-images.githubusercontent.com/1491908/234538923-84311c47-8099-455c-9f33-3169f73c4e04.png">
+
+
+Lester Leaps In (Young)
+---
+
+1939
+
+<img width="540" alt="Screenshot 2023-04-26 at 14 45 13" src="https://user-images.githubusercontent.com/1491908/234552228-37b0f17f-2f53-4fb2-ae30-5dc898ca9b80.png">
+
+
+
 Ain't Misbehavin' (Waller)
 ---
 
@@ -86,16 +105,6 @@ Ain't Misbehavin' (Waller)
 <img width="749" alt="Screenshot 2023-04-26 at 10 17 27" src="https://user-images.githubusercontent.com/1491908/234486044-0777aed5-0a07-45be-99e2-f85e205dd4c9.png">
 
 
-Oleo (Rollins)
----
-
-1954 hardbop, contrafact of "I Got Rhythm"
-
-<img width="747" alt="Screenshot 2023-04-26 at 13 48 40" src="https://user-images.githubusercontent.com/1491908/234538770-e9451a1f-e1b2-49a6-9aec-0ed78f7ab55e.png">
-
-<img width="721" alt="Screenshot 2023-04-26 at 13 49 22" src="https://user-images.githubusercontent.com/1491908/234538923-84311c47-8099-455c-9f33-3169f73c4e04.png">
-
-
 
 Honeysuckle rose (Waller)
 ---
@@ -107,6 +116,11 @@ Honeysuckle rose (Waller)
 <img width="749" alt="Screenshot 2023-04-26 at 13 56 19" src="https://user-images.githubusercontent.com/1491908/234540780-ff06e7e2-9225-44ac-a4e7-a1869a26663f.png">
 
 <img width="774" alt="Screenshot 2023-04-26 at 13 56 36" src="https://user-images.githubusercontent.com/1491908/234540863-e2a9c8cd-4326-4893-824b-29175ad6aef3.png">
+
+<img width="1056" alt="Screenshot 2023-04-26 at 18 57 40" src="https://user-images.githubusercontent.com/1491908/234616612-2439d409-2c2b-4ace-befc-092c2a8cce75.png">
+
+<img width="1299" alt="Screenshot 2023-04-26 at 18 57 59" src="https://user-images.githubusercontent.com/1491908/234616699-d8902f2c-b42e-41e3-806f-778eeb060e14.png">
+
 
 It Don't Mean a Thing (Ellington)
 ---
@@ -126,12 +140,6 @@ Basin Street Blues (Williams)
 <img width="552" alt="Screenshot 2023-04-26 at 14 40 42" src="https://user-images.githubusercontent.com/1491908/234551266-0665ba0e-b0b3-4650-a113-aa2805521862.png">
 
 
-Lester Leaps In (Young)
----
-
-1939
-
-<img width="540" alt="Screenshot 2023-04-26 at 14 45 13" src="https://user-images.githubusercontent.com/1491908/234552228-37b0f17f-2f53-4fb2-ae30-5dc898ca9b80.png">
 
 
 
