@@ -8,6 +8,8 @@
   - [Basin Street Blues (Williams)](#basin-street-blues-williams)
   - [Lester Leaps In (Young)](#lester-leaps-in-young)
   - [Satin Doll (Ellington)](#satin-doll-ellington)
+  - [I've Found a New Baby (Williams)](#ive-found-a-new-baby-williams)
+  - [Oh Lady, Be Good (Gershwin)](#oh-lady-be-good-gershwin)
 - [Leaves](#leaves)
   - [Autumn Leaves (Kosma)](#autumn-leaves-kosma)
   - [Love For Sale (Porter)](#love-for-sale-porter)
@@ -24,6 +26,8 @@
   - [Sweet Georgia Brown (Pinkard)](#sweet-georgia-brown-pinkard)
   - [Mack The Knife (Weill)](#mack-the-knife-weill)
   - [St. Louis Blues (Handy)](#st-louis-blues-handy)
+  - [Now's the Time (parker)](#nows-the-time-parker)
+  - [Some of These Days (Brooks)](#some-of-these-days-brooks)
 - [Smth else](#smth-else)
   - [I'm Beginning To See the Light (Ellington)](#im-beginning-to-see-the-light-ellington)
   - [How High Is the Moon (Lewis)](#how-high-is-the-moon-lewis)
@@ -31,6 +35,15 @@
   - [Django (Lewis)](#django-lewis)
   - [Four Brothers (Giuffre)](#four-brothers-giuffre)
   - [Groovin' High (Gillespie)](#groovin-high-gillespie)
+  - [I Can't Give You Anything But Love (McHugh)](#i-cant-give-you-anything-but-love-mchugh)
+  - [Lullaby Of Birdland (Shearing)](#lullaby-of-birdland-shearing)
+  - [Summertime (Gershwin)](#summertime-gershwin)
+  - [My Funny Valentine-(Rodgers-Hart)](#my-funny-valentine-rodgers-hart)
+  - ['Round About Midnight (Monk)](#round-about-midnight-monk)
+  - [Misty (Garner)](#misty-garner)
+  - [The Man I Love (Gershwin)](#the-man-i-love-gershwin)
+  - [Take Five (Desmond)](#take-five-desmond)
+- [References](#references)
 
 Rhythm changes
 ===
