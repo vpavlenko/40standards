@@ -222,3 +222,19 @@ F can be expanded as F - Fm
 
 <img width="637" alt="Screenshot 2023-04-26 at 15 30 23" src="https://user-images.githubusercontent.com/1491908/234562012-1eb93f87-beb3-49a4-b334-90645ed93637.png">
 
+
+Sweet Georgia Brown (Pinkard)
+---
+
+1925
+
+<img width="691" alt="Screenshot 2023-04-26 at 15 33 52" src="https://user-images.githubusercontent.com/1491908/234562700-cb6a9186-b4db-4af6-9bd4-09a836061e60.png">
+
+<img width="1065" alt="Screenshot 2023-04-26 at 15 34 46" src="https://user-images.githubusercontent.com/1491908/234562884-6940db60-8672-40bc-82c6-76ca953a3085.png">
+
+<img width="1305" alt="Screenshot 2023-04-26 at 15 36 17" src="https://user-images.githubusercontent.com/1491908/234563172-1986c8a3-b5c6-47ce-8209-acaeb990fcf4.png">
+
+
+
+
+
