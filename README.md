@@ -47,9 +47,56 @@ Anthropology (Parker)
 Oleo (Rollins)
 ---
 
+1954 hardbop, contrafact of "I Got Rhythm"
+
 <img width="747" alt="Screenshot 2023-04-26 at 13 48 40" src="https://user-images.githubusercontent.com/1491908/234538770-e9451a1f-e1b2-49a6-9aec-0ed78f7ab55e.png">
 
 <img width="721" alt="Screenshot 2023-04-26 at 13 49 22" src="https://user-images.githubusercontent.com/1491908/234538923-84311c47-8099-455c-9f33-3169f73c4e04.png">
 
+
+
+Honeysuckle rose (Waller)
+---
+
+1929
+
+<img width="405" alt="Screenshot 2023-04-26 at 13 59 29" src="https://user-images.githubusercontent.com/1491908/234541605-3f17874d-172d-435a-a52f-43ddcca6ddaa.png">
+
+<img width="749" alt="Screenshot 2023-04-26 at 13 56 19" src="https://user-images.githubusercontent.com/1491908/234540780-ff06e7e2-9225-44ac-a4e7-a1869a26663f.png">
+
+<img width="774" alt="Screenshot 2023-04-26 at 13 56 36" src="https://user-images.githubusercontent.com/1491908/234540863-e2a9c8cd-4326-4893-824b-29175ad6aef3.png">
+
+
+Basin Street Blues (Williams)
+---
+
+<img width="552" alt="Screenshot 2023-04-26 at 14 40 42" src="https://user-images.githubusercontent.com/1491908/234551266-0665ba0e-b0b3-4650-a113-aa2805521862.png">
+
+
+Lester Leaps In (Young)
+---
+
+1939
+
+<img width="540" alt="Screenshot 2023-04-26 at 14 45 13" src="https://user-images.githubusercontent.com/1491908/234552228-37b0f17f-2f53-4fb2-ae30-5dc898ca9b80.png">
+
+
+
+Satin Doll (Ellington)
+---
+
+1953
+
+"Corner Pocket" (1955, Freddie Green) has the same changes
+
+<img width="392" alt="Screenshot 2023-04-26 at 14 47 24" src="https://user-images.githubusercontent.com/1491908/234552704-5d86554a-bdad-4095-a559-9cef505d1787.png">
+
+<img width="1104" alt="Screenshot 2023-04-26 at 14 49 33" src="https://user-images.githubusercontent.com/1491908/234553193-c306061e-1f77-483a-b336-9fc8f5606706.png">
+
+<img width="1271" alt="Screenshot 2023-04-26 at 14 49 53" src="https://user-images.githubusercontent.com/1491908/234553261-bd29fb47-7b66-4547-8551-908c94a004bf.png">
+
+<img width="739" alt="Screenshot 2023-04-26 at 14 50 29" src="https://user-images.githubusercontent.com/1491908/234553366-eb6d21a7-f0a7-4e11-83e2-140be6d83054.png">
+
+<img width="754" alt="Screenshot 2023-04-26 at 14 50 41" src="https://user-images.githubusercontent.com/1491908/234553463-4c5f5a7e-31c5-445f-ac58-5f2ad9e3a615.png">
 
 
