@@ -345,6 +345,14 @@ Now's the Time (parker)
 
 <img width="686" alt="Screenshot 2023-04-26 at 18 25 44" src="https://user-images.githubusercontent.com/1491908/234606928-8b32882f-dfb9-4d2d-b812-c010d434e4e8.png">
 
+Some of These Days (Brooks)
+---
+
+1910
+
+<img width="687" alt="Screenshot 2023-04-26 at 18 43 17" src="https://user-images.githubusercontent.com/1491908/234612241-d3929f5c-5089-4ef5-a692-5e7a677f1b5d.png">
+
+
 
 
 
@@ -454,6 +462,23 @@ Summertime (Gershwin)
 
 <img width="1254" alt="Screenshot 2023-04-26 at 18 23 46" src="https://user-images.githubusercontent.com/1491908/234606304-96cbad0b-0704-49f7-8f41-139a5b816ff4.png">
 
+My Funny Valentine-(Rodgers-Hart)
+---
+
+1937
+
+<img width="700" alt="Screenshot 2023-04-26 at 18 47 40" src="https://user-images.githubusercontent.com/1491908/234613595-05a20f63-e0e8-4cdd-a5e1-9909c4055dc9.png">
+
+<img width="747" alt="Screenshot 2023-04-26 at 18 47 49" src="https://user-images.githubusercontent.com/1491908/234613641-46d5efdb-e3e4-4ab4-81ae-6528727a2325.png">
+
+<img width="888" alt="Screenshot 2023-04-26 at 18 47 59" src="https://user-images.githubusercontent.com/1491908/234613700-e87e210d-210a-4e0a-8685-a4c6f6c936dd.png">
+
+<img width="1278" alt="Screenshot 2023-04-26 at 18 48 35" src="https://user-images.githubusercontent.com/1491908/234613882-b78b16e3-cf33-4145-88fe-0a090eb67fd5.png">
+
+
+<img width="732" alt="Screenshot 2023-04-26 at 18 48 17" src="https://user-images.githubusercontent.com/1491908/234613804-7f75945a-8a56-427e-89ea-089a44f5c532.png">
+
+
 
 'Round About Midnight (Monk)
 ---
@@ -464,4 +489,45 @@ Summertime (Gershwin)
 
 <img width="881" alt="Screenshot 2023-04-26 at 18 31 45" src="https://user-images.githubusercontent.com/1491908/234608720-5f682be3-e5ef-40c3-8675-b7ad412c1640.png">
 
+
+Misty (Garner)
+---
+
+1954
+
+<img width="692" alt="Screenshot 2023-04-26 at 18 33 20" src="https://user-images.githubusercontent.com/1491908/234609194-114395f1-ef5e-4a79-aac6-80b809e42a58.png">
+
+<img width="762" alt="Screenshot 2023-04-26 at 18 33 35" src="https://user-images.githubusercontent.com/1491908/234609277-0575cfc3-4c6f-48c7-8e43-ac7fb861cdaa.png">
+
+<img width="1086" alt="Screenshot 2023-04-26 at 18 38 25" src="https://user-images.githubusercontent.com/1491908/234610798-1d5a0699-9f88-441d-9393-fa78904457d7.png">
+
+<img width="1279" alt="Screenshot 2023-04-26 at 18 38 46" src="https://user-images.githubusercontent.com/1491908/234610885-20063495-93a2-449d-becb-e3b279797d53.png">
+
+<img width="718" alt="Screenshot 2023-04-26 at 18 39 18" src="https://user-images.githubusercontent.com/1491908/234611046-37c0e7b9-c208-493d-99ec-61726f2b78b3.png">
+
+The Man I Love (Gershwin)
+---
+
+1924
+
+<img width="748" alt="Screenshot 2023-04-26 at 18 45 55" src="https://user-images.githubusercontent.com/1491908/234613076-82c22a8d-eca8-4485-9d50-8075c902bbf3.png">
+
+
+Take Five (Desmond)
+---
+
+1959
+
+<img width="754" alt="Screenshot 2023-04-26 at 18 41 12" src="https://user-images.githubusercontent.com/1491908/234611654-3a2ce3f4-67e6-4a5f-a152-28217f78da46.png">
+
+
+
+References
+===
+
+1. [В. Сидоркович. Популярные джазовые темы](https://mcim.ru/wp-content/uploads/2022/09/100JazzThemes.pdf)
+2. [Mark Veltzer. OpenBook](https://veltzer.github.io/openbook/output/openbook.pdf)
+3. [John Elliott. Insights In Jazz](https://dropback.co.uk/overview-of-the-iij-book/)
+4. [Bob Keller. Roadmaps Produced by Impro-Visor version 5.03 for “Insights in Jazz” Leadsheets](https://www.cs.hmc.edu/~keller/jazz/InsightsRoadmapsConsolidated.pdf)
+5. [mDecks. The Jazz Standards Progressions Book](https://mdecks.com/jazzstandards.phtml)
 
