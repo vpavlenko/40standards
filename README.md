@@ -57,9 +57,6 @@ I Got Rhythm (Gershwin)
 
 <img width="681" alt="Screenshot 2023-04-26 at 12 20 22" src="https://user-images.githubusercontent.com/1491908/234514608-331899c3-933a-4718-b658-094b5a7455be.png">
 
-<img width="551" alt="Screenshot 2023-04-27 at 09 42 02" src="https://user-images.githubusercontent.com/1491908/234769635-03f7a056-4224-493f-a92a-b3e528f1a5f5.png">
-
-
 <img width="1293" alt="Screenshot 2023-04-26 at 12 21 19" src="https://user-images.githubusercontent.com/1491908/234514857-0262f54c-545f-4095-882f-986d041e0992.png">
 
 <img width="1021" alt="Screenshot 2023-04-26 at 12 21 48" src="https://user-images.githubusercontent.com/1491908/234514983-d485d892-9c29-4e63-80bc-a1dc866e4159.png">
