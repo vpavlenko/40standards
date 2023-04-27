@@ -1,14 +1,12 @@
-# Table of contents
-
 - [Rhythm changes](#rhythm-changes)
-  - [Ain't Misbehavin' (Waller)](#aint-misbehavin-waller)
-  - [I got rhythm (Gershwin)](#i-got-rhythm-gershwin)
+  - [I Got Rhythm (Gershwin)](#i-got-rhythm-gershwin)
   - [Anthropology (Parker)](#anthropology-parker)
   - [Oleo (Rollins)](#oleo-rollins)
+  - [Lester Leaps In (Young)](#lester-leaps-in-young)
+  - [Ain't Misbehavin' (Waller)](#aint-misbehavin-waller)
   - [Honeysuckle rose (Waller)](#honeysuckle-rose-waller)
   - [It Don't Mean a Thing (Ellington)](#it-dont-mean-a-thing-ellington)
   - [Basin Street Blues (Williams)](#basin-street-blues-williams)
-  - [Lester Leaps In (Young)](#lester-leaps-in-young)
   - [Satin Doll (Ellington)](#satin-doll-ellington)
   - [I've Found a New Baby (Williams)](#ive-found-a-new-baby-williams)
   - [Oh Lady, Be Good (Gershwin)](#oh-lady-be-good-gershwin)
@@ -49,6 +47,8 @@
 
 Rhythm changes
 ===
+
+https://www.google.com/search?q=rhythm+changes
 
 I Got Rhythm (Gershwin)
 --
