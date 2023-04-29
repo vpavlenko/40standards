@@ -61,6 +61,11 @@ I Got Rhythm (Gershwin)
 
 <img width="1021" alt="Screenshot 2023-04-26 at 12 21 48" src="https://user-images.githubusercontent.com/1491908/234514983-d485d892-9c29-4e63-80bc-a1dc866e4159.png">
 
+<img width="969" alt="Screenshot 2023-04-29 at 09 36 39" src="https://user-images.githubusercontent.com/1491908/235285629-491ab5ed-eb54-40cf-a42a-278cfe23aaee.png">
+
+<img width="711" alt="Screenshot 2023-04-29 at 09 38 22" src="https://user-images.githubusercontent.com/1491908/235285683-996d741b-4ffa-4ba1-a10a-44965dd5a233.png">
+
+
 Anthropology (Parker)
 ---
 
@@ -108,7 +113,7 @@ https://iujazztheory.weebly.com/passing-diminished-chords.html
 
 
 
-Honeysuckle rose (Waller)
+Honeysuckle Rose (Waller)
 ---
 
 1929
@@ -123,6 +128,8 @@ Honeysuckle rose (Waller)
 
 <img width="1299" alt="Screenshot 2023-04-26 at 18 57 59" src="https://user-images.githubusercontent.com/1491908/234616699-d8902f2c-b42e-41e3-806f-778eeb060e14.png">
 
+<img width="723" alt="Screenshot 2023-04-29 at 09 39 10" src="https://user-images.githubusercontent.com/1491908/235285712-3494dcf2-adb1-45cb-8c73-4efd6b64e169.png">
+
 
 It Don't Mean a Thing (Ellington)
 ---
@@ -135,6 +142,8 @@ It Don't Mean a Thing (Ellington)
 
 <img width="1302" alt="Screenshot 2023-04-26 at 15 54 29" src="https://user-images.githubusercontent.com/1491908/234567283-407b1a54-9af6-4666-b2ac-93ee20c99af6.png">
 
+<img width="706" alt="Screenshot 2023-04-29 at 09 39 40" src="https://user-images.githubusercontent.com/1491908/235285733-3796625c-8702-432a-81cb-2074fd810372.png">
+
 
 Basin Street Blues (Williams)
 ---
@@ -142,6 +151,7 @@ Basin Street Blues (Williams)
 <img width="552" alt="Screenshot 2023-04-26 at 14 40 42" src="https://user-images.githubusercontent.com/1491908/234551266-0665ba0e-b0b3-4650-a113-aa2805521862.png">
 
 
+<img width="717" alt="Screenshot 2023-04-29 at 09 40 01" src="https://user-images.githubusercontent.com/1491908/235285747-68270b89-234c-45b8-ad26-0a28a1ee67c3.png">
 
 
 
@@ -152,15 +162,19 @@ Satin Doll (Ellington)
 
 "Corner Pocket" (1955, Freddie Green) has the same changes
 
+
+
+<img width="739" alt="Screenshot 2023-04-26 at 14 50 29" src="https://user-images.githubusercontent.com/1491908/234553366-eb6d21a7-f0a7-4e11-83e2-140be6d83054.png">
+
+<img width="754" alt="Screenshot 2023-04-26 at 14 50 41" src="https://user-images.githubusercontent.com/1491908/234553463-4c5f5a7e-31c5-445f-ac58-5f2ad9e3a615.png">
+
 <img width="392" alt="Screenshot 2023-04-26 at 14 47 24" src="https://user-images.githubusercontent.com/1491908/234552704-5d86554a-bdad-4095-a559-9cef505d1787.png">
 
 <img width="1104" alt="Screenshot 2023-04-26 at 14 49 33" src="https://user-images.githubusercontent.com/1491908/234553193-c306061e-1f77-483a-b336-9fc8f5606706.png">
 
 <img width="1271" alt="Screenshot 2023-04-26 at 14 49 53" src="https://user-images.githubusercontent.com/1491908/234553261-bd29fb47-7b66-4547-8551-908c94a004bf.png">
 
-<img width="739" alt="Screenshot 2023-04-26 at 14 50 29" src="https://user-images.githubusercontent.com/1491908/234553366-eb6d21a7-f0a7-4e11-83e2-140be6d83054.png">
-
-<img width="754" alt="Screenshot 2023-04-26 at 14 50 41" src="https://user-images.githubusercontent.com/1491908/234553463-4c5f5a7e-31c5-445f-ac58-5f2ad9e3a615.png">
+<img width="724" alt="Screenshot 2023-04-29 at 09 40 43" src="https://user-images.githubusercontent.com/1491908/235285772-f6fc8534-4aa0-40c7-970f-262865f1034d.png">
 
 
 I've Found a New Baby (Williams)
@@ -169,6 +183,8 @@ I've Found a New Baby (Williams)
 1926
 
 <img width="504" alt="Screenshot 2023-04-26 at 18 18 51" src="https://user-images.githubusercontent.com/1491908/234604867-a4089961-e679-49a2-b6fd-00863028619b.png">
+
+<img width="712" alt="Screenshot 2023-04-29 at 09 41 05" src="https://user-images.githubusercontent.com/1491908/235285784-8c7d0d71-d00f-44b3-80a6-e4e010e1862a.png">
 
 <img width="1436" alt="Screenshot 2023-04-26 at 19 05 08" src="https://user-images.githubusercontent.com/1491908/234618781-09280bed-dcd6-4e3c-90a3-4e748887381c.png">
 
@@ -183,6 +199,8 @@ Oh Lady, Be Good (Gershwin)
 <img width="1081" alt="Screenshot 2023-04-26 at 18 28 23" src="https://user-images.githubusercontent.com/1491908/234607693-099caf6f-9afa-460e-b2a9-0a6eb4d120f7.png">
 
 <img width="1263" alt="Screenshot 2023-04-26 at 18 28 58" src="https://user-images.githubusercontent.com/1491908/234607881-a7108d56-f257-45a9-acfe-c5dec4fd7743.png">
+
+<img width="961" alt="Screenshot 2023-04-29 at 09 34 23" src="https://user-images.githubusercontent.com/1491908/235285551-059a4f29-6bfa-4989-a909-6154c93fc417.png">
 
 
 
@@ -209,6 +227,7 @@ Autumn Leaves (Kosma)
 
 <img width="678" alt="Screenshot 2023-04-29 at 09 25 44" src="https://user-images.githubusercontent.com/1491908/235285271-879824ce-1102-4de2-be92-60c392a05150.png">
 
+<img width="700" alt="Screenshot 2023-04-29 at 09 41 45" src="https://user-images.githubusercontent.com/1491908/235285823-425e8e12-3da9-49a6-83bc-4cac210b5bac.png">
 
 <img width="1611" alt="Screenshot 2023-04-26 at 19 15 31" src="https://user-images.githubusercontent.com/1491908/234621673-aae80949-47dd-4cfc-a797-1f574c7ac9c0.png">
 
@@ -253,6 +272,11 @@ Cherokee (Noble)
 <img width="737" alt="Screenshot 2023-04-26 at 15 12 57" src="https://user-images.githubusercontent.com/1491908/234558523-e0ef8cf5-59e3-4964-8665-a3827c0d6b47.png">
 
 <img width="1275" alt="Screenshot 2023-04-26 at 15 13 47" src="https://user-images.githubusercontent.com/1491908/234558689-74218f4c-acdd-4757-968d-3b210b84f0de.png">
+
+
+<img width="708" alt="Screenshot 2023-04-29 at 09 30 15" src="https://user-images.githubusercontent.com/1491908/235285418-ce526920-a78e-49b4-b5d5-bde61285da88.png">
+
+
 
 <img width="749" alt="Screenshot 2023-04-26 at 15 21 09" src="https://user-images.githubusercontent.com/1491908/234560181-25c558f8-4de4-4b27-bd14-b1e0dc814d62.png">
 
@@ -412,6 +436,9 @@ How High Is the Moon (Lewis)
 
 <img width="687" alt="Screenshot 2023-04-26 at 15 59 57" src="https://user-images.githubusercontent.com/1491908/234568355-c511f9f9-f22b-4db4-8e65-0319b8d51de4.png">
 
+<img width="971" alt="Screenshot 2023-04-29 at 09 32 15" src="https://user-images.githubusercontent.com/1491908/235285483-535b8a47-a977-4d51-9a86-bc43184f02fb.png">
+
+
 <img width="1618" alt="Screenshot 2023-04-26 at 19 26 24" src="https://user-images.githubusercontent.com/1491908/234624639-db1833fc-1956-4dc6-9439-465c14806f20.png">
 
 
@@ -425,6 +452,9 @@ Ornithology (Parker)
 <img width="1130" alt="Screenshot 2023-04-26 at 16 01 20" src="https://user-images.githubusercontent.com/1491908/234568638-8ed29951-ce3e-473e-a51e-f9e97b2a288e.png">
 
 <img width="1286" alt="Screenshot 2023-04-26 at 16 01 55" src="https://user-images.githubusercontent.com/1491908/234568762-e0fc77c4-67ce-47be-8431-1bf5edd16e20.png">
+
+<img width="964" alt="Screenshot 2023-04-29 at 09 36 05" src="https://user-images.githubusercontent.com/1491908/235285608-7f0493e5-4510-4dfa-843f-f99bf183f8b1.png">
+
 
 <img width="734" alt="Screenshot 2023-04-26 at 16 01 34" src="https://user-images.githubusercontent.com/1491908/234568698-6ab57af7-195a-4747-8709-7337d6dfa93f.png">
 
@@ -457,6 +487,12 @@ Groovin' High (Gillespie)
 <img width="1089" alt="Screenshot 2023-04-26 at 16 18 32" src="https://user-images.githubusercontent.com/1491908/234572298-06c3e17f-50cf-4504-ab6e-924629cc385b.png">
 
 <img width="1266" alt="Screenshot 2023-04-26 at 16 18 46" src="https://user-images.githubusercontent.com/1491908/234572360-d6a500fc-e588-4d13-ba0d-9aa7b03cffc1.png">
+
+<img width="965" alt="Screenshot 2023-04-29 at 09 31 34" src="https://user-images.githubusercontent.com/1491908/235285461-acb03953-18c9-418c-8992-295c1060f0ad.png">
+
+
+
+
 
 <img width="721" alt="Screenshot 2023-04-26 at 16 22 37" src="https://user-images.githubusercontent.com/1491908/234573237-a614701e-e51e-4e2e-8881-733dd9019268.png">
 
@@ -499,6 +535,11 @@ Summertime (Gershwin)
 
 <img width="1254" alt="Screenshot 2023-04-26 at 18 23 46" src="https://user-images.githubusercontent.com/1491908/234606304-96cbad0b-0704-49f7-8f41-139a5b816ff4.png">
 
+<img width="1005" alt="Screenshot 2023-04-29 at 09 37 31" src="https://user-images.githubusercontent.com/1491908/235285657-16a7045a-9744-4778-b396-9e5d380d40f9.png">
+
+
+
+
 My Funny Valentine-(Rodgers-Hart)
 ---
 
@@ -540,6 +581,9 @@ Misty (Garner)
 
 <img width="1279" alt="Screenshot 2023-04-26 at 18 38 46" src="https://user-images.githubusercontent.com/1491908/234610885-20063495-93a2-449d-becb-e3b279797d53.png">
 
+<img width="962" alt="Screenshot 2023-04-29 at 09 35 13" src="https://user-images.githubusercontent.com/1491908/235285572-e81a8092-e8e2-4869-8803-ec67766b6c43.png">
+
+
 <img width="718" alt="Screenshot 2023-04-26 at 18 39 18" src="https://user-images.githubusercontent.com/1491908/234611046-37c0e7b9-c208-493d-99ec-61726f2b78b3.png">
 
 The Man I Love (Gershwin)
@@ -566,8 +610,10 @@ References
 2. [Mark Veltzer. OpenBook](https://veltzer.github.io/openbook/output/openbook.pdf)
 3. [John Elliott. Insights In Jazz](https://dropback.co.uk/overview-of-the-iij-book/)
 4. [Bob Keller. Roadmaps Produced by Impro-Visor version 5.03 for “Insights in Jazz” Leadsheets](https://www.cs.hmc.edu/~keller/jazz/InsightsRoadmapsConsolidated.pdf)
+7. [Phil Clark. Book of Lego](https://www.cs.hmc.edu/~keller/jazz/BookOfLegoPhilClark.pdf)
 5. [mDecks. The Jazz Standards Progressions Book](https://mdecks.com/jazzstandards.phtml)
 6. [Jazz Harmony Treebank](https://github.com/DCMLab/JazzHarmonyTreebank)
+
 
 
 TODO
