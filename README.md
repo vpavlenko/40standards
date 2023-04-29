@@ -4,7 +4,7 @@
   - [Oleo (Rollins)](#oleo-rollins)
   - [Lester Leaps In (Young)](#lester-leaps-in-young)
   - [Ain't Misbehavin' (Waller)](#aint-misbehavin-waller)
-  - [Honeysuckle rose (Waller)](#honeysuckle-rose-waller)
+  - [Honeysuckle Rose (Waller)](#honeysuckle-rose-waller)
   - [It Don't Mean a Thing (Ellington)](#it-dont-mean-a-thing-ellington)
   - [Basin Street Blues (Williams)](#basin-street-blues-williams)
   - [Satin Doll (Ellington)](#satin-doll-ellington)
