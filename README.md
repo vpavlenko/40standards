@@ -261,6 +261,9 @@ Body And Soul (Green)
 
 <img width="1277" alt="Screenshot 2023-04-26 at 15 11 11" src="https://user-images.githubusercontent.com/1491908/234558104-807821ec-df18-4895-897f-b5c613c7c33c.png">
 
+<img width="715" alt="Screenshot 2023-04-29 at 09 43 08" src="https://user-images.githubusercontent.com/1491908/235285868-158cdf40-9215-41c9-b17a-88f2aa4c3644.png">
+
+
 
 Cherokee (Noble)
 ---
@@ -320,6 +323,10 @@ A Night in Tunisia (Gillespie)
 
 <img width="1281" alt="Screenshot 2023-04-26 at 15 17 06" src="https://user-images.githubusercontent.com/1491908/234559348-2ca734c1-206c-4ac4-904f-1d81622bb58a.png">
 
+<img width="709" alt="Screenshot 2023-04-29 at 09 43 53" src="https://user-images.githubusercontent.com/1491908/235285898-f79defeb-42d0-4aab-98a3-78b30b408772.png">
+
+<img width="710" alt="Screenshot 2023-04-29 at 09 44 02" src="https://user-images.githubusercontent.com/1491908/235285906-ab195b0e-3097-4ef9-affe-51cfc9808093.png">
+
 
 Caravan (Tizol)
 ---
@@ -331,6 +338,10 @@ Caravan (Tizol)
 <img width="675" alt="Screenshot 2023-04-26 at 15 20 29" src="https://user-images.githubusercontent.com/1491908/234560009-cdb9db2f-d6dc-445b-9d77-916dbb2a5a29.png">
 
 
+<img width="718" alt="Screenshot 2023-04-29 at 09 44 33" src="https://user-images.githubusercontent.com/1491908/235285926-aadda6f9-b884-4cd0-8e00-c17a6d1a2650.png">
+
+
+
 Moanin' (Timmons)
 ---
 
@@ -339,7 +350,9 @@ Moanin' (Timmons)
 
 <img width="697" alt="Screenshot 2023-04-26 at 15 39 38" src="https://user-images.githubusercontent.com/1491908/234563842-75ed0397-b867-4e80-8cbb-1707824ba4dc.png">
 
+<img width="704" alt="Screenshot 2023-04-29 at 09 45 03" src="https://user-images.githubusercontent.com/1491908/235285949-0577cd52-da1b-4b22-ae66-1db49fff52af.png">
 
+<img width="721" alt="Screenshot 2023-04-29 at 09 45 39" src="https://user-images.githubusercontent.com/1491908/235286014-4c713cdc-a922-4702-9359-56af9bec7ff1.png">
 
 
 
@@ -382,6 +395,9 @@ Sweet Georgia Brown (Pinkard)
 
 <img width="1305" alt="Screenshot 2023-04-26 at 15 36 17" src="https://user-images.githubusercontent.com/1491908/234563172-1986c8a3-b5c6-47ce-8209-acaeb990fcf4.png">
 
+<img width="702" alt="Screenshot 2023-04-29 at 09 46 22" src="https://user-images.githubusercontent.com/1491908/235286066-11fd4e9b-4012-4f56-9e8b-c7372b4a24de.png">
+
+
 Mack The Knife (Weill)
 ---
 
@@ -396,12 +412,17 @@ St. Louis Blues (Handy)
 
 <img width="695" alt="Screenshot 2023-04-26 at 15 45 42" src="https://user-images.githubusercontent.com/1491908/234565251-7d8ce928-1da1-4177-8a0f-4f9899978571.png">
 
+<img width="724" alt="Screenshot 2023-04-29 at 09 47 06" src="https://user-images.githubusercontent.com/1491908/235286103-f2998c57-ab52-4018-a987-ece46e772e17.png">
+
+
 Now's the Time (Parker)
 ---
 
 1945, 12 bar blues
 
 <img width="686" alt="Screenshot 2023-04-26 at 18 25 44" src="https://user-images.githubusercontent.com/1491908/234606928-8b32882f-dfb9-4d2d-b812-c010d434e4e8.png">
+
+<img width="716" alt="Screenshot 2023-04-29 at 09 47 26" src="https://user-images.githubusercontent.com/1491908/235286123-260a1d19-be3f-4327-a324-4c326e51a331.png">
 
 Some of These Days (Brooks)
 ---
@@ -437,6 +458,9 @@ How High Is the Moon (Lewis)
 <img width="687" alt="Screenshot 2023-04-26 at 15 59 57" src="https://user-images.githubusercontent.com/1491908/234568355-c511f9f9-f22b-4db4-8e65-0319b8d51de4.png">
 
 <img width="971" alt="Screenshot 2023-04-29 at 09 32 15" src="https://user-images.githubusercontent.com/1491908/235285483-535b8a47-a977-4d51-9a86-bc43184f02fb.png">
+
+<img width="711" alt="Screenshot 2023-04-29 at 09 48 11" src="https://user-images.githubusercontent.com/1491908/235286149-bdc7df52-4233-4c63-9ac3-146282531e78.png">
+
 
 
 <img width="1618" alt="Screenshot 2023-04-26 at 19 26 24" src="https://user-images.githubusercontent.com/1491908/234624639-db1833fc-1956-4dc6-9439-465c14806f20.png">
@@ -475,6 +499,8 @@ Four Brothers (Giuffre)
 1947
 
 <img width="535" alt="Screenshot 2023-04-26 at 16 16 19" src="https://user-images.githubusercontent.com/1491908/234571761-820a2c65-e65f-4e23-8d06-66cc56e14d6b.png">
+
+<img width="719" alt="Screenshot 2023-04-29 at 09 48 33" src="https://user-images.githubusercontent.com/1491908/235286170-90abfd2e-36a1-431b-8e64-6b368846c197.png">
 
 
 Groovin' High (Gillespie)
@@ -537,6 +563,7 @@ Summertime (Gershwin)
 
 <img width="1005" alt="Screenshot 2023-04-29 at 09 37 31" src="https://user-images.githubusercontent.com/1491908/235285657-16a7045a-9744-4778-b396-9e5d380d40f9.png">
 
+<img width="704" alt="Screenshot 2023-04-29 at 09 49 06" src="https://user-images.githubusercontent.com/1491908/235286187-7579dfb7-dfea-45b2-8fb9-160df1dbacfa.png">
 
 
 
@@ -592,6 +619,8 @@ The Man I Love (Gershwin)
 1924
 
 <img width="748" alt="Screenshot 2023-04-26 at 18 45 55" src="https://user-images.githubusercontent.com/1491908/234613076-82c22a8d-eca8-4485-9d50-8075c902bbf3.png">
+
+
 
 
 Take Five (Desmond)
