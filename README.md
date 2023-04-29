@@ -642,11 +642,3 @@ References
 7. [Phil Clark. Book of Lego](https://www.cs.hmc.edu/~keller/jazz/BookOfLegoPhilClark.pdf)
 5. [mDecks. The Jazz Standards Progressions Book](https://mdecks.com/jazzstandards.phtml)
 6. [Jazz Harmony Treebank](https://github.com/DCMLab/JazzHarmonyTreebank)
-
-
-
-TODO
----
-
-1. See if Phil Clark's [book](https://www.cs.hmc.edu/~keller/jazz/BookOfLegoPhilClark.pdf) adds something
-2. Add charts from mDecks where missing
