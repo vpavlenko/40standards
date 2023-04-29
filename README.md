@@ -82,7 +82,12 @@ Oleo (Rollins)
 
 <img width="747" alt="Screenshot 2023-04-26 at 13 48 40" src="https://user-images.githubusercontent.com/1491908/234538770-e9451a1f-e1b2-49a6-9aec-0ed78f7ab55e.png">
 
+<img width="1099" alt="Screenshot 2023-04-29 at 09 59 35" src="https://user-images.githubusercontent.com/1491908/235286562-1a0a1dfb-0571-4e80-bdc9-c8080fa6fa3c.png">
+
+
 <img width="721" alt="Screenshot 2023-04-26 at 13 49 22" src="https://user-images.githubusercontent.com/1491908/234538923-84311c47-8099-455c-9f33-3169f73c4e04.png">
+
+
 
 
 Lester Leaps In (Young)
@@ -642,3 +647,4 @@ References
 7. [Phil Clark. Book of Lego](https://www.cs.hmc.edu/~keller/jazz/BookOfLegoPhilClark.pdf)
 5. [mDecks. The Jazz Standards Progressions Book](https://mdecks.com/jazzstandards.phtml)
 6. [Jazz Harmony Treebank](https://github.com/DCMLab/JazzHarmonyTreebank)
+8. [C. Bunks, T. Weyde, A. Slingsby, J. Wood. Visualization of Tonal Harmony for Jazz Lead Sheets](https://openaccess.city.ac.uk/id/eprint/28140/1/Visualization_of_Harmonic_Structure%20Camera%20Ready%20Copy.pdf)
