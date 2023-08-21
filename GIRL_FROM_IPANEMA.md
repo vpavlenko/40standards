@@ -11,7 +11,7 @@ Lead sheet
 
 <img width="768" alt="Screenshot 2023-08-21 at 15 19 46" src="https://github.com/vpavlenko/40standards/assets/1491908/5b76e2a0-a058-4e48-a437-bb4c155aa27e">
 
-
+https://www.hooktheory.com/theorytab/view/astrud-gilberto-and-stan-getz/the-girl-from-ipanema
 
 How to solo
 --
@@ -24,3 +24,10 @@ Transcribed solos
 
 - https://dokumen.tips/documents/girl-from-ipanema-solo-oscar-peterson.html?page=1
 
+Guitar
+--
+
+Chords:
+- https://www.guitaretab.com/f/frank-sinatra/158570.html
+- https://www.e-chords.com/chords/stan-getz/the-girl-from-ipanema
+- 
