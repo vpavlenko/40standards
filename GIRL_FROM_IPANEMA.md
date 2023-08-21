@@ -30,4 +30,3 @@ Guitar
 Chords:
 - https://www.guitaretab.com/f/frank-sinatra/158570.html
 - https://www.e-chords.com/chords/stan-getz/the-girl-from-ipanema
-- 
