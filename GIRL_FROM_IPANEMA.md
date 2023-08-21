@@ -1,3 +1,8 @@
+- [Lead sheet](#lead-sheet)
+- [How to solo](#how-to-solo)
+- [Transcribed solos](#transcribed-solos)
+- [Guitar](#guitar)
+
 Lead sheet
 --
 
